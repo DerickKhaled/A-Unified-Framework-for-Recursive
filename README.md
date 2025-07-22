@@ -11,7 +11,7 @@ Current alignment techniques like RLHF and Constitutional AI rely heavily on hum
 - Prone to bias and instability
 - Inefficient for long-horizon reasoning tasks
 
-## ✅ Solution
+## Solution
 
 We propose a fully autonomous recursive alignment framework that:
 - Uses **multi-phase in-context ranking** with self-generated prompts
@@ -21,11 +21,11 @@ We propose a fully autonomous recursive alignment framework that:
 
 This results in a cost-efficient, self-reinforcing loop for training trustworthy LLMs.
 
-## 🔑 Keywords
+## Keywords
 
 Recursive alignment, autonomous LLMs, synthetic supervision, in-context learning, self-ranking, multi-phase alignment, self-distillation, programmatic reward modeling, alignment without RLHF, safe AI, scalable LLM training.
 
-## 🧪 Recursive Alignment Benchmark
+##  Recursive Alignment Benchmark
 
 The framework was evaluated on the HHH alignment benchmark, showing superior performance to RLHF and Constitutional AI baselines. Improvements were observed in:
 - Truthfulness
