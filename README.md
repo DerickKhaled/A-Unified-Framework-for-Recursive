@@ -4,7 +4,7 @@ This paper presents a general-purpose framework for training **self-aligning LLM
 
 We introduce a unified architecture that brings together synthetic supervision, in-context self-ranking, and modular alignment phases — improving helpfulness, harmlessness, and truthfulness, while significantly reducing alignment cost and human dependency.
 
-## ❓ Problem
+## Problem
 
 Current alignment techniques like RLHF and Constitutional AI rely heavily on human preference data and fixed reward models. This is:
 - Expensive to scale
